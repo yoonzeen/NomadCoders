@@ -20,7 +20,7 @@ button {height:30px; display:inline-block; font-size:15px; font-family:'DOSMyung
 .loading {font-size:19px; margin-top:10px;}
 
 /* 로그인 폼 */
-#login-form {width:250px; position:absolute; left:50%; top:50%; transform:translate(-50%, -50%); border:2px solid #d3eeef; padding:40px 10px 15px;}
+#login-form {width:250px; position:absolute; left:50%; top:50%; transform:translate(-50%, -50%); border:2px solid #d3eeef; padding:40px 10px 15px; background-color:#c2c0c1;}
 #login-form::before {content:'Untitled - Log In'; }
 #login-form input {width:170px;}
 #login-form button {height:26px; line-height: 24px; vertical-align: -3px; padding:0 5px;}
